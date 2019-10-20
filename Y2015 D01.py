@@ -1,4 +1,4 @@
-myInputFile = open("Y2015_D1_Input.txt" , "r")
+myInputFile = open("Y2015_D01_Input.txt" , "r")
 myInputString = myInputFile.read()
 
 def checkFloor(inputString):
