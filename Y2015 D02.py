@@ -1,4 +1,4 @@
-myInputFile = open("Y2015_D2_Input.txt" , "r")
+myInputFile = open("Y2015_D02_Input.txt" , "r")
 myInputLines = myInputFile.readlines()
 
 def processLine(line):
